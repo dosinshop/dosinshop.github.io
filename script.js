@@ -4,7 +4,7 @@ const products = [
     { id: 2, name: "Кепка: MichaelDosin", price: 25, description: "Черная кепка с оригинальным логотипом.", image: "images/cap_dosin.png" },
     { id: 3, name: "Толстовка: ForDalaran", price: 150, description: "Белая толстовка. Этот парень явно знает толк в моде.", image: "images/hoodie_fordalaran.png" },
     { id: 4, name: "Футболка: DanikGruZOV", price: 85, description: "Белая футболка. Лазеры из глаз, он думает что крут.", image: "images/tshirt_danik_gruzov.png" },
-    { id: 5, name: "Футболка: KievEg", price: 1000, description: "Белая легендарная футболка. Удобная и стильная как родинка киев ега.", image: "images/tshirt_kieveg" },
+    { id: 5, name: "Футболка: KievEg", price: 1000, description: "Белая легендарная футболка. Удобная и стильная как родинка киев ега.", image: "images/tshirt_kieveg.png" },
     { id: 6, name: "Рюкзак: Karmannik", price: 95, description: "Черный рюкзак. Этот парень кажется вам знакомым.", image: "images/danik_karmannik_bag.png" },
     { id: 7, name: "Кружка: Danilov", price: 15, description: "Белая кружка. Больше нечего добавить.", image: "images/mug_danilov.png" },
     { id: 8, name: "Брелок: KievEg", price: 10, description: "Белый брелок, наверное это забанят.", image: "images/kieveg_keychain.png" }
