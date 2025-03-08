@@ -1,13 +1,13 @@
 const cart = JSON.parse(localStorage.getItem('cart')) || [];
 const products = [
-    { id: 1, name: "Футболка: MichaelDosin", price: 290, description: "Белая футболка из 100% хлопка. Удобная и стильная. Вышла в честь новго трека.", image: "images/tshirt_dosin_morgen.png" },
+    { id: 1, name: "Футболка: MichaelDosin", price: 290, description: "Белая футболка. Вышла в честь новго трека.", image: "images/tshirt_dosin_morgen.png" },
     { id: 2, name: "Кепка: MichaelDosin", price: 25, description: "Черная кепка с оригинальным логотипом.", image: "images/cap_dosin.png" },
-    { id: 3, name: "Толстовка: ForDalaran", price: 150, description: "Толстовка с капюшоном и карманами. Теплая и удобная.", image: "images/hoodie_fordalaran.png" },
-    { id: 4, name: "Футболка: DanikGruZOV", price: 85, description: "Белая футболка из 100% хлопка. Лазеры из глаз, он думает что крут.", image: "images/tshirt_danik_gruzov.png" },
-    { id: 5, name: "Футболка: KievEg", price: 1000, description: "Белая легендарная футболка из 100% хлопка. Удобная и стильная как родинка киев ега.", image: "images/tshirt_kieveg" },
+    { id: 3, name: "Толстовка: ForDalaran", price: 150, description: "Белая толстовка. Этот парень явно знает толк в моде.", image: "images/hoodie_fordalaran.png" },
+    { id: 4, name: "Футболка: DanikGruZOV", price: 85, description: "Белая футболка. Лазеры из глаз, он думает что крут.", image: "images/tshirt_danik_gruzov.png" },
+    { id: 5, name: "Футболка: KievEg", price: 1000, description: "Белая легендарная футболка. Удобная и стильная как родинка киев ега.", image: "images/tshirt_kieveg" },
     { id: 6, name: "Рюкзак: Karmannik", price: 95, description: "Черный рюкзак. Этот парень кажется вам знакомым.", image: "images/danik_karmannik_bag.png" },
-    { id: 7, name: "Толстовка: ForDalaran", price: 150, description: "Толстовка с капюшоном и карманами. Теплая и удобная.", image: "images/hoodie_fordalaran.png" },
-    { id: 8, name: "Футболка: DanikGruZOV", price: 85, description: "Белая футболка из 100% хлопка. Удобная и стильная.", image: "images/tshirt_danik_gruzov.png" }
+    { id: 7, name: "Кружка: Danilov", price: 15, description: "Белая кружка. Больше нечего добавить.", image: "images/mug_danilov.png" },
+    { id: 8, name: "Брелок: KievEg", price: 10, description: "Белый брелок, наверное это забанят.", image: "images/kieveg_keychain.png" }
 ];
 
 document.addEventListener("DOMContentLoaded", function() {
