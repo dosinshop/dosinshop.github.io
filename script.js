@@ -10,7 +10,7 @@ const products = [
     { id: 8, name: "Брелок: KievEg", price: 10, description: "Белый брелок, наверное это забанят.", image: "images/kieveg_keychain.png" },
     { id: 9, name: "Рюкзак: VovaVaginov", price: 50, description: "Чёрный рюкзак. Этот парень должен мне 50 рублей.", image: "images/vova_vaginov_bag.png" },
     { id: 10, name: "Футболка: KievEg", price: 175, description: "Белая футболка. Я явно видел его в Roblox.", image: "images/tshirt_kieveg_cartoon.png" },
-    { id: 11, name: "Наклейка на карту: KievEg", price: 10, description: "Наклейка на карту. Не самый лучший дизайн.", image: "images/card_kieveg.png" },
+    { id: 11, name: "Наклейка на карту: KievEg", price: 10, description: "Наклейка на карту. Не самый лучший дизайн.", image: "images/kieveg_card.png" },
     { id: 12, name: "Значок: DanikGruZOV", price: 10, description: "Чёрный значок. Вы слышите знакомую мелодию: тун тудудун тудудун тун...", image: "images/icon_danik_gruzov.png" }
 ];
 
